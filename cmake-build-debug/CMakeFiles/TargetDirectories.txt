@@ -1,0 +1,3 @@
+C:/Users/bariccatti/CLionProjects/Trabalho1-SCC0607/cmake-build-debug/CMakeFiles/Trabalho1_SCC0607.dir
+C:/Users/bariccatti/CLionProjects/Trabalho1-SCC0607/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bariccatti/CLionProjects/Trabalho1-SCC0607/cmake-build-debug/CMakeFiles/rebuild_cache.dir
