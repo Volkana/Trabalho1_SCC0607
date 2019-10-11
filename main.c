@@ -3,11 +3,18 @@
 #include<string.h>
 
 typedef struct{
+    //armazena a funcionalidade a ser executada
     char valor[1];
+    //armazena o nome dos arquivos a serem executados e no caso da funcionalidade 4, o valor a ser pesquisado
     char campos[3][100];
+    //armazena (caso exista, o RRN)
     int RRN;
+    //armazena (caso necessário) a lista de valores a serem utilizados na funcionalidade 5, 6 e 7
+    int *inicio_lista;
+    //caso exista a lista, armazena quantas valores existem na lista
     int qnt;
 }Entrada;
+
 
 typedef struct{
     char campo1[100];
